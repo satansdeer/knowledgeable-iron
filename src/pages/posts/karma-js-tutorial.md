@@ -1,6 +1,8 @@
 ---
 title: Karma JS Tutorial
 date: 2020-05-02T17:57:57.888Z
+excerpt: " _Psst, do you write Javascript that runs in browser?_ I have
+  something for you, it's&nbsp;called&nbsp;**Karma**, you'll like it."
 template: post
 ---
 `youtube:https://www.youtube.com/embed/0_XhWBqgx-c`
